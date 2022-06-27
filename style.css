@@ -1,0 +1,63 @@
+body{
+   border-style: solid;
+   border-color:#f08080;
+  background-color: #f08080;
+    
+}
+.parent{
+    background-color: #E0E0E0;
+    width: 300px;
+    border: 15px #E0E0E0;
+    padding: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25em;
+   }
+.Form{
+    float: inherit;
+}
+.Have{
+    color: 	#909090;
+    font: verdana;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
+.Username{
+    border: solid;
+    border-color: white;
+    border-style: solid;
+    background-color: white;
+    color: #E0E0E0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+.Password{
+    border: solid;
+    border-color: white;
+    border-style: solid;
+    background-color: white;
+    color: #E0E0E0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+
+.Login{
+    padding: 10px 30px 10px 30px;
+    border-color: #b9f9fa;
+    border-style: solid;
+    background-color: #79f3f5;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.Rememberme{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    color:#909090;
+}
+
